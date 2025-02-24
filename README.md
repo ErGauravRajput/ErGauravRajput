@@ -3,13 +3,21 @@
 
 - 🔭 I’m currently working on [MovieFlix](https://movie-flix-react.vercel.app/)
 
+- 🌱 I’m currently learning **and improving My Backend.**
+
+- 👨‍💻 See My Portfolio [https://my-portfolio-gaurav.vercel.app/](https://my-portfolio-gaurav.vercel.app/)
+
+- 💬 Ask me about **react ,javaScript,HTML,CSS and more...**
+
+- 📫 How to reach me **Er.Gaurav2022@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/-gauravrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/-gauravrajput" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/-gauravrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-gauravrajput" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gauravrajput01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gauravrajput01" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gauravrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gauravrajput" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gauravrajput2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauravrajput2026" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/gauravrajput2026/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/gauravrajput2026/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gauravrajput2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gauravrajput2026" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
