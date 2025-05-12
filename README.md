@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav kumar</h1>
 <h3 align="center">Building Engaging Web Experiences with HTML, CSS, JavaScript, React, Express.js, Node.js, MongoDB, MySQL</h3>
 
-- 🔭 I’m currently working on [MovieFlix](https://movie-flix-react.vercel.app/)
-
 - 🌱 I’m currently learning **and improving My Backend.**
 
 - 👨‍💻 See My Portfolio [https://my-portfolio-gaurav.vercel.app/](https://my-portfolio-gaurav.vercel.app/)
