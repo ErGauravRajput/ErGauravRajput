@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **and improving My Backend.**
 
-- 👨‍💻 See My Portfolio [https://my-portfolio-gaurav.vercel.app/](https://my-portfolio-gaurav.vercel.app/)
+- 👨‍💻 See My Portfolio [https://my-portfolio-gaurav.vercel.app/](https://gaurav-portfolio-omega.vercel.app/)
 
 - 💬 Ask me about **react ,javaScript,HTML,CSS and more...**
 
